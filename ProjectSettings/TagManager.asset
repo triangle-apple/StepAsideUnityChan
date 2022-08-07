@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CarTag
   - TrafficConeTag
+  - CoinTag
+  - GoalTag
   layers:
   - Default
   - TransparentFX
